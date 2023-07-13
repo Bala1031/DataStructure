@@ -4,7 +4,11 @@ int main() {
 
 int inputnumber;
 
-printf("Enter the number"); scanf("%d",&inputnumber); int result-Evenodd(inputnumber); printf("Result d,result).
+printf("Enter the number"); 
+  
+scanf("%d",&inputnumber); 
+int result-Evenodd(inputnumber); 
+printf("Result d,result).
 
 return 0;
 
