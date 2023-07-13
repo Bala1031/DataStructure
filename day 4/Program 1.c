@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-// Read only region start.
+
 int second Last Digitof (int input1)
 {
 }
