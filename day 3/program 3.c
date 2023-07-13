@@ -25,5 +25,5 @@ int lastdigit2 number 210,
 
 int sum-lastdigit-lastdigit2;
 
-return sun;
+return sum;
 }
