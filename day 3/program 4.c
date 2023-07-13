@@ -12,10 +12,11 @@ printf("The second last digit of the given number sd 15 %d", number, result);
 
 }
 
-int seconddigit(int number) { if(number<10)
+int seconddigit(int number) \
+{ 
+  if(number<10)
 {
 return -1;
-
 }
 
 else{
